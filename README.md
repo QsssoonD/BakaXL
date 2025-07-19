@@ -1,6 +1,6 @@
 # BakaXL 启动器 / BakaXL Launcher
-[![](https://img.shields.io/badge/V%20ME-50-red?style=for-the-badge&logo=kfc&logoColor=red)](https://afdian.net/@TT702)
-[![](https://img.shields.io/badge/We%20Are-POOR-946ce6?style=for-the-badge&logo=cashapp&logoColor=bb9aff)](https://afdian.net/@TT702)
+[![](https://img.shields.io/badge/V%20ME-50-red?style=for-the-badge&logo=kfc&logoColor=red)](https://afdian.tv/a/TT702)
+[![](https://img.shields.io/badge/We%20Are-POOR-946ce6?style=for-the-badge&logo=cashapp&logoColor=bb9aff)](https://afdian.tv/a/TT702)
 [![](https://img.shields.io/github/issues/BakaXL-Launcher/BakaXL?style=for-the-badge)](https://github.com/BakaXL-Launcher/BakaXL/issues)
 [![](https://img.shields.io/github/forks/BakaXL-Launcher/BakaXL?style=for-the-badge)](https://www.bilibili.com/video/BV1GJ411x7h7/)
 [![](https://img.shields.io/github/stars/BakaXL-Launcher/BakaXL?style=for-the-badge)](https://www.bilibili.com/video/BV1GJ411x7h7/)
